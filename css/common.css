@@ -1,0 +1,316 @@
+body{
+	background-color: #f8f8f8;
+}
+header{
+	margin: 0 auto;
+	width: 1280px;
+	height: 720px;
+	text-align: center;
+
+	
+		background-image: url(image/beatsyaa.jpg)
+}
+.header-wrapper{
+	width: 1280px;
+	height: 800px;
+	margin: 0 auto;
+
+	
+}
+
+
+.nav_logo h1{
+	position: absolute;
+	display: flex;
+	margin-left: 150px;
+    margin-top: 10px;
+	
+}
+.nav_logo ul{
+	display: flex;
+	list-style: none;
+	justify-content: flex-end;
+	text-align: center;
+	padding-top: 25px;
+}
+.nav_logo li a{
+	margin-right: 160px;
+	font-family: 'Open Sans', sans-serif;
+	color:#4D4D4D;
+	font-size:25px;
+}
+main{
+	margin: 0 auto;
+	width: 1280px;
+	text-align: center;
+}
+h2#menu1{
+	font-size:30px;
+	font-family: 'Open Sans', sans-serif;
+	margin-top: 100px;
+	margin-bottom: 30px;
+}
+hr{
+	background-color: #EFAC5E;
+	width: 50px;
+	margin: 0 auto;
+	margin-bottom: 30px;
+	height: 10px;
+	border-radius: 10px;
+}
+
+ul{
+	list-style: none;
+	text-align: center;
+	
+}
+dl#one{
+	margin: 0 auto;
+	width: 1000px;
+	height: 250px;
+	background-color: white;
+	position: relative;
+	margin-bottom: 50px;
+	
+}
+
+dt{
+	padding-top: 25px;
+	padding-left: 30px;
+	position: absolute;
+	width: 200px;
+	height: 200px;
+}
+
+dd.name{
+	padding-top: 100px;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 20px;
+	letter-spacing: 5px;
+}
+dd.price{
+	padding-top: 20px;
+	letter-spacing: 5px;
+	 pointer-events: none;
+}
+dl.two{
+	margin:  0 auto;
+	width: 1000px;
+	height: 250px;
+	background-color: white;
+	position: relative;
+	margin-bottom: 50px;
+}
+dt{
+	position: absolute;
+}
+a{
+text-decoration: none;
+color: #919191;
+}
+
+dd.name1{
+	padding-top: 100px;
+	font-family: 'Open Sans', sans-serif;	
+	letter-spacing: 5px;
+	font-size: 20px;
+}
+dd.price1{
+	padding-top: 20px;
+	letter-spacing: 5px;
+	 pointer-events: none;
+}
+
+
+dl.three{
+	margin:  0 auto;
+	width: 1000px;
+	height: 250px;
+	background-color: white;
+	position: relative;
+	margin-bottom: 50px;
+}
+dt{
+	position: absolute;
+}
+a{
+text-decoration: none;
+color: #919191;
+}
+
+dd.name2{
+	padding-top: 100px;
+	font-family: 'Open Sans', sans-serif;	
+	letter-spacing: 5px;
+	font-size: 20px;
+}
+dd.price2{
+	padding-top: 20px;
+	letter-spacing: 5px;
+	 pointer-events: none;
+}
+h2#menu2{
+	font-size:30px;
+	font-family: 'Open Sans', sans-serif;
+	margin-top: 100px;
+		margin-bottom: 30px;
+	
+}
+
+
+.box1{
+	margin-right: 20px;
+	width: 300px;
+	height: 350px;
+	background-color: white;
+	float: left;
+	margin-left: 10px;
+}
+li.img{
+	padding-top: 25px;	
+}
+li.name{
+	margin-top: 32px;
+	margin-bottom: 10px;
+	letter-spacing: 3px;
+	font-family: 'Open Sans', sans-serif;
+}
+li.price{
+	letter-spacing: 3px;
+    pointer-events: none;
+	list-style: none;
+}
+.box2{
+ float: left;
+	width: 300px;
+	height: 350px;
+	background-color: white;
+	margin-right: 20px;
+		overflow: hidden;
+}
+li.name1{
+	font-family: 'Open Sans', sans-serif;
+	margin-bottom: 15px;
+	letter-spacing: 3px;
+	margin-top: 30px;
+}
+
+.box3{
+	float: left;
+    width: 300px;
+	height: 350px;
+	background-color: white;
+	margin-right: 20px;
+		overflow: hidden;
+}
+li.name2{
+		font-family: 'Open Sans', sans-serif;
+		margin-bottom: 15px;
+	letter-spacing: 3px;
+	margin-top: 30px;
+}
+
+.box4{
+	float: left;
+    width: 300px;
+	height: 350px;
+	background-color: white;
+	margin-bottom: 100px;
+		overflow: hidden;
+}
+li.name3{
+			font-family: 'Open Sans', sans-serif;
+		margin-bottom: 15px;
+	margin-top: 30px;
+}
+
+h2#menu3{
+		font-family: 'Open Sans', sans-serif;
+        font-size: 30px;
+		margin-bottom: 30px;
+}
+#box5{
+	width: 300px;
+	height: 350px;
+	background-color: white;
+	margin-left: 10px;
+	float: left;
+		overflow: hidden;
+}
+li.name4{
+				font-family: 'Open Sans', sans-serif;
+		margin-bottom: 15px;
+	margin-top: 30px;
+	letter-spacing: 3px;
+}
+.box6{
+		width: 300px;
+	height: 350px;
+	background-color: white;
+	margin-left: 20px;
+	float: left;
+		overflow: hidden;
+	
+}
+li.name5{
+				font-family: 'Open Sans', sans-serif;
+		margin-bottom: 15px;
+	margin-top: 30px;
+	letter-spacing: 3px;
+}
+
+
+.box7{
+		width: 300px;
+	height: 350px;
+	background-color: white;
+	margin-left: 20px;
+	float: left;
+		overflow: hidden;
+}
+li.name6{
+				font-family: 'Open Sans', sans-serif;
+		margin-bottom: 15px;
+	margin-top: 30px;
+	letter-spacing: 3px;
+}
+.box8{
+		width: 300px;
+	height: 350px;
+	background-color: white;
+	margin-left: 10px;
+	float: left;
+	overflow: hidden;
+	
+}
+li.name7{
+				font-family: 'Open Sans', sans-serif;
+		margin-bottom: 15px;
+	margin-top: 30px;
+	letter-spacing: 3px;
+}
+
+footer{
+	padding-top: 100px;
+    clear: both;
+	margin: 0 auto; 
+	text-align: center;
+	margin-left: 50px;
+	
+}
+
+.icon a{
+	margin-right: 20px;
+	
+}
+
+p{
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-right: 20px; 
+	font-size: 10px;	
+	text-align: center;
+	letter-spacing: 2px;
+	font-family: 'Open Sans', sans-serif;
+	
+}
